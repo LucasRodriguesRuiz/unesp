@@ -5,12 +5,19 @@
 ---
 
 ## 📅 Agenda (Datas Importantes)
-| Evento | Data |
-| :--- | :--- |
-| **P1** (Prova 1) | 24/04/2026 |
+| Evento                  | Data       |
+| :---------------------- | :--------- |
+| **P1** (Prova 1)        | 24/04/2026 |
 | **Entrega do Trabalho** | 15/05/2026 |
-| **P2** (Prova 2) | 12/06/2026 |
-| **Exame Final** | 03/07/2026 |
+| **P2** (Prova 2)        | 12/06/2026 |
+| **Exame Final**         | 03/07/2026 |
+## 🗒️ Agenda do Raciocínio Logico (RacioLog)
+| **Evento**       | **Data**   |
+| ---------------- | ---------- |
+| **ACEU** (Dia 1) | 17/04/2026 |
+| **ACEU** (Dia 2) | 04/05/2026 |
+| **ACEU** (Dia 3) | 27/05/2026 |
+| **ACEU** (Dia 4) | 09/06/2026 |
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Faculdade em Geral/Extensão e ATPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Extensão e ATPA"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Faculdade em Geral/Extensão e ATPA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Extensão e ATPA"
             }
           }
         ],
@@ -180,12 +180,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "7c299ee48d9f391d",
   "lastOpenFiles": [
+    "README.md",
     "Educação Matemática Inclusiva/Critérios de Avaliação e Atividades.md",
     "Educação Matemática Inclusiva/Histórico da Legislação de Inclusão no Brasil.md",
     "Educação Matemática/Introdução*.md",

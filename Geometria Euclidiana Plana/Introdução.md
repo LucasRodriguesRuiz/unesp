@@ -23,7 +23,7 @@
 
 ## 📚 Conteúdo Programático
 
-1. **Estrutura lógico-dedutiva**
+1. **[[Estrutura lógico-dedutiva]]**
 2. **Retas e ângulos**
    - 2.1 Retas e os axiomas de incidência e de ordem
    - 2.2 Ângulos

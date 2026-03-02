@@ -3,6 +3,18 @@
 **Fonte:** [Google Classroom](https://classroom.google.com/u/0/c/NzkzOTI1NDUyNTQ2)
 
 ---
+## 📅 Agenda (Datas Importantes)
+
+⚠️ *Atenção: As datas das avaliações podem ser alteradas de acordo com imprevistos no calendário ou acontecimentos.*
+
+| Evento | Data |
+| :--- | :--- |
+| **P1** (Prova 1) | 27/04/2026 |
+| **P2** (Prova 2) | 29/06/2026 |
+| **Exame Final** | 06/07/2026 |
+
+---
+
 ## 📚 Conteúdo Programático
 
 1. **Matrizes**

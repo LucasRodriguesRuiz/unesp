@@ -64,8 +64,8 @@ Onde **`A`** é a nossa **Hipótese/Premissa** (aquilo que assumimos como verdad
 
 ### Comparativo de Formas de Demonstração
 
-| | 🎯 Forma Direta | 🔄 Forma Indireta (Absurdo) |
-| :--- | :---: | :---: |
-| **Hipótese** (Ponto de partida) | `A` | `A ∧ ¬B` |
-| **Tese** (Onde queremos chegar) | `B` | `C ∧ ¬C` *(Uma contradição)* |
-| **Demonstração** (Processo lógico)| `A ⊢ B` | `(A ∧ ¬B) ⊢ (C ∧ ¬C)` |
+|                                    | 🎯 Forma Direta | 🔄 Forma Indireta (Absurdo)  |
+| :--------------------------------- | :-------------: | :--------------------------: |
+| **Hipótese** (Ponto de partida)    |       `A`       |           `A ∧ ¬B`           |
+| **Tese** (Onde queremos chegar)    |       `B`       | `C ∧ ¬C` *(Uma contradição)* |
+| **Demonstração** (Processo lógico) |     `A ⊢ B`     |    `(A ∧ ¬B) ⊢ (C ∧ ¬C)`     |

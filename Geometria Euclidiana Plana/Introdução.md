@@ -3,7 +3,6 @@
 **Fonte:** [Google Classroom](https://classroom.google.com/u/0/c/ODQ2Njk5OTkxMTI3)
 
 ---
-
 ## 📅 Agenda (Datas Importantes)
 | Evento                  | Data       |
 | :---------------------- | :--------- |

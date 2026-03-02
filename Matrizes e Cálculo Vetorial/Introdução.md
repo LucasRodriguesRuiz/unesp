@@ -1,9 +1,8 @@
 # 🧮 Matrizes e Cálculo Vetorial
-**Professora:** Priscila Buzolin
+**Professora:** Prescila Glaucia Christianini Buzolin
 **Fonte:** [Google Classroom](https://classroom.google.com/u/0/c/NzkzOTI1NDUyNTQ2)
 
 ---
-
 ## 📚 Conteúdo Programático
 
 1. **Matrizes**

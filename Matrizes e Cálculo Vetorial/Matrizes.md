@@ -11,7 +11,6 @@
 - **Notação de Elementos:** Os elementos de uma matriz são representados por letras minúsculas seguidas de índices indicando sua posição: $a_{ij}$.
   - Onde $i$ representa a linha ($1 \leq i \leq m$).
   - Onde $j$ representa a coluna ($1 \leq j \leq n$).
-gi
 **Notação Geral de uma Matriz:**
 $$
 A = \begin{bmatrix}

@@ -132,13 +132,3 @@ Abaixo a distribuição sugerida das disciplinas ao longo dos 8 semestres do cur
 
 > [!NOTE] Observação Importante
 > Esta estrutura é uma **proposta em elaboração**. Professores que já ministraram ou ministram as disciplinas deram sugestões sobre os planos de ensino e as alterações ainda estão sendo finalizadas. Mudanças podem ser sugeridas até 11/03/2026.
-
----
-## Propostas
-
-- O espaçamento das Materias de calculo é considerado ruim atualmente na nova proposta, estar em semestres diferentes do plano atual é ruim para DPs.
-- Fundamento I e II e os calculos em sequencia. Tentar resolver o problema de estruturas algebricas, um meio termo entre o que foi apresentado.
-- Ao inves de inserir disciplina de pensamento algebrico, manter a estruturas algebricas e reformar ela pra unir com pensamento algebrico.
-- MEB Geometria plana, MED Numeros e FUnções, já existem. Disciplinas de CONTEUDO, necessitam de reformulação. alianhar o estudo do professor ao campo em que ele via trabalhar
-- Criar 4 MEBS ao inves de só 2, tirar estruturas para conseguir implementar elas em MEBS para o professor conseguir ensinar esses tópicos depois de formado
-- Não tem como ensinar algo que não se sabe, então as MEBs tambem ensinam o conteudo ao futuro professor
